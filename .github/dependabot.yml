@@ -1,8 +1,8 @@
 version: 2
 updates:
 
-  - package-ecosystem: "github-actions" 
-    versioning-strategy: "auto" 
-    directory: "/" 
+  - package-ecosystem: "github-actions"
+    versioning-strategy: "auto"
+    directory: "/"
     schedule:
-      interval: "weekly" 
+      interval: "weekly"
